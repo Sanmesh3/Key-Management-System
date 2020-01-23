@@ -1,8 +1,3 @@
-"""
-SJSU ID: 014370759
-Name: Sanmesh Suhas Bhosale
-This is an implementation of a Key Management System.
-"""
 # Sample Private Key: E9873D79C6D87DC0FB6A5778633389F4453213303DA61F20BD67FC233AA33262
 # Sample DES3 Key: This is sample DES3 key.
 # Sample Blowfish Key: This is fifty-six byte Blowfish key used for encryption.
